@@ -1,0 +1,118 @@
+.card-priceTables {
+    background: #3b1d82;
+    border-radius: 4px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+.card-priceTables:hover {
+    background: #5111c0;
+}
+.search_section .serarch_option select{
+    height: 42px;
+    margin: auto;
+    border-radius: 50px;
+    font-size: 18px;
+    border: none;
+    color: #3B1D82;
+    box-shadow:0px 0px 5px #DDDDDD;
+    padding:0px 20px;
+
+}
+.search {
+width: 100%;
+position: relative;
+display: flex;
+}
+
+.searchTerm:focus{
+color: #5111C0;
+}
+
+.searchButton {
+width: 40px;
+height: 40px;
+border: none;
+background: #5111C0;
+text-align: center;
+color: #fff;
+border-radius: 0 50px 50px 0;
+cursor: pointer;
+font-size: 20px;
+}
+
+
+.wrap input[type=search]::placeholder{
+    color:#3B1D82;
+    font-size: 20px;
+
+}
+.wrap input[type=search]{
+    color:#3B1D82;
+    font-size: 20px;
+    padding: 0px 20px;
+
+}
+.wrap .search{
+    box-shadow:0px 0px 5px #DDDDDD;
+    background-color: none;
+    outline: none;
+    border-radius: 50px;
+
+}
+
+.searchTerm {
+    width: 100%;
+    border: 3px solid #fff;
+    border-right: none;
+    padding: 5px;
+    height: 40px;
+    border-radius: 50px 0 0 50px;
+    outline: none;
+    color: #5111C0;
+    font-size: 20px;
+    }
+
+#Top{
+   color:#EA0763;
+   margin-left: 50px;
+}
+#Top svg{
+   transition: 0.5s;
+
+}
+#Top:hover svg{
+    color:#fff;
+    transition: 0.5s;
+    margin-top:-20px;
+
+}
+
+html {
+scroll-behavior: smooth;
+}
+.help_line .clockdiv .clockdiv-single {
+    width: 145px;
+    height: 145px;
+    text-align: center;
+    padding-top: 45px;
+}
+
+.marquee_area{
+    background-color: #3B1D82;
+    height: 50px;
+    box-shadow: 0px 0px 5px 5px #138496;
+  }
+  .marquee_area .mar{
+    white-space: nowrap;
+  }
+  .marquee_area .mar p{
+      line-height: 50px;
+      color:#fff;
+      font-size: bold;
+      font-size: 18px;
+      text-transform: uppercase;
+  }
+
+

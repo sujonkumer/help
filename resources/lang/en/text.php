@@ -1,0 +1,217 @@
+<?php
+
+	return[
+
+        /*Blood donner texts*/
+        "registration" => "Registration",
+        "log_in" => "Log In",
+        "wlc_to" => "Welcome To Our Blood Donners BD-2020",
+        "join_our_family" => "Join Our Family",
+        "our_honarable_donners" => "Our Honarable Blood Donners",
+        "registration_for_blood_donate" => " Registration For Blood Donate",
+        "id" => "ID",
+        "blood_donners_bd" => "Blood Donners BD",
+        "blood_search" => "Search Blood Group",
+
+
+
+        /*Registration Form */
+        "add_new_blood_donner_registration" => "Add New Blood Donner/Registration",
+        "full_name" => "Full Name",
+        "enter_your_full_name" => "Enter Your Full name",
+        "blood_group" => "Blood Group",
+        "select_your_blood_group" => "Select Your Blood Group ",
+        "email" => "Email",
+        "mobile" => "Mobile",
+        "enter_your_email" => "Enter Your Email",
+        "enter_your_mobile_number" => "Enter Your Mobile Number",
+        "password" => "Password",
+        "enter_your_password" => "Enter Your Password",
+        "confirm_password" => "Confirm Password",
+        "enter_your_confirm_password" => "Enter Your Confirm Password",
+        "country" => "Country",
+        "select_your_country" => "Select Your Country",
+        "bangladesh" => "Bangladesh",
+        "city" => "City",
+        "enter_your_city_country" => "Enter Your City/Village",
+        "district" => "District",
+        "select_your_district" => "Select Yoru District",
+        "thana" => "Thana",
+        "enter_your_thana" => "Enter your Thana",
+        "status" => "Status",
+        "select_status" => "Select Status",
+        "active" => "Active",
+        "inactive" => "InActive",
+        "address" => "Address",
+        "enter_your_address" => "Enter Your Address ..",
+
+
+        //header section
+
+        "home" => "Home",
+        "hospital_support" => "Hospital Support",
+        "diesease_medicene" => "Disease & Medicine",
+        "top_donners" => "Top5Donners",
+        "gallery" => "Gallery",
+        "language" => "Language",
+        "bangla" => "Bangla",
+        "english" => "English",
+        "login_&_registration" => "Login & Registration",
+        "login" => "Login",
+        "login_form" => "Login Form",
+        "registration" => "Registration",
+        "select_blood_grous" => "Select Blood Group...",
+        "select_district" => "Select District...",
+        "search_area" => "Search Local Area...",
+        "enter_your_area" => "Enter Your Local Area.",
+        "area" => "area",
+        //Hospital area
+        "hospital" => "Hospital",
+        "hospital_and_ambulance_support" => "Hospital & Ambulance Support",
+        "add_hospital_and_ambulance_info" => "Add Hospital & Ambulance Info",
+        "add_hospital_and_ambulance_info" => "Add Hospital & Ambulance Information",
+        "hospital_name" => "Hospital Name",
+        "enter_hospital_name" => "Enter Hospital Name",
+        "hospital_contact_numnber" => "Hospital Contact Number",
+        "enter_hospital_contact_number" => "Enter Hospital Contact Number (Optional)",
+        "ambulance_contact_number" => "Ambulance Contact Number",
+        "enter_ambulance_contact_number" => "Enter Ambulance Contact Number (Optional)",
+        "hospital_location" => "Hospital Location",
+        "enter_hospital_location" => "Enter Hospital Location",
+        "status" => "Status",
+        "select_status" => "Select Status",
+        "active" => "Active",
+        "inactive" => "InActive",
+        //disease area
+        "disease_and_its_medicine" => "Disease & Its Medicine",
+        "add_disease_and_its_medicine" => "Add Disease and its medicine",
+        "disease_name" => "Disease Name",
+        "enter_disease_name" => "Enter Disease Name",
+        "disease_medicine" => "Disease medicine",
+        "enter_medicine_names_if_you_are_sure" => "Enter Medicine Names. If you are sure.",
+        "dosage_and_usage_rules" => "Dosage And Usage rules",
+        "enter_dosage_and_usage_rulse" => "Enter Dosage And Usage rules. If you are sure.",
+        //facebook area
+        "facebook_group" => "Facebook Group ",
+        "facebook_blood_donate_group" => "Facebook Blood Donate Group",
+        "add_facebook_blood_donate_group" => "Add Facebook Blood Donate Group",
+        "add_facebook_blood_donate_group" => "Add Facebook Blood Donate Group",
+        "group_name" => "Group Name",
+        "enter_group_name" => "Enter Group Name",
+        "group_link" => "Group Link",
+        "enter_group_link" => "Enter Group Link...",
+        //gallery area
+        "blood_donners_bd" => "Blood Donners BD-2020",
+        "honarable_blood_donners_gallery" => "Honarable Blood Donners Gallery",
+        //top5 pepole
+        "welcome_to_blood_donners_bd" => "Welcome to Blood Donners BD",
+        "honarable_blood_donner_helper_people" => "Honarable Blood Donner Helper People",
+
+        //why join blood donners bd
+        "what_are_the_benefits" => "What are the benefits of our website",
+        "help_lines"=> "Help Lines Codes",
+        "help_line" => "Help Line (Video)",
+        "blood_groups" => "Blood Groups",
+        //data tables area
+        "hospital_name" => "Hospital Name",
+        "hospital_contact" => "Hospital Contact",
+        "ambulance_number" => "Ambulance Number",
+        "location" => "Location",
+        "status" => "Status",
+        "action" => "Action",
+        "disease_name" => "Disease Name",
+        "disease_medicine" => "Disease Medicine",
+        "dosage_and_usage_rules" => "Dosage And Usage rules",
+        "group_name" => "Group Name",
+        "group_link" => "Group Link",
+        //admin panel
+        "dashboard" => "Dashboard",
+        "donner_list" => "Donner List",
+        "hospital_support_list" => "Hospital Support List ",
+        "disease_and_medicine_list" => "Disease & Medicine List ",
+        "fb_blood_donate_group" => "FB Blood Donate Group",
+        "back_logout" => "Back [ LogOut ]",
+        "add_disease_and_medicine" => "Add Disease & Medicine",
+        "add_new_donner" => "Add New Donner",
+        "add_fb_blood_donate_group" => "Add Fb Blood Donate Group",
+        "add_hosptal_and_ambulance_info" => "Add Hospital & Ambulance Info",
+        "blood_grous" => "Blood Groups",
+
+        //Fire Service Section
+        "fire_service" => "Fire Service Name And Number",
+
+        //Thana Service section
+        "thana_service" => "Thana Name And Number",
+
+        //gov't website
+        "govt_website" => "Gov't Website Name And Link",
+
+        //Tables language
+        "fire_service_name" => "Fire Service Name",
+        "fire_service_number" => "Fire Service Number",
+        "fire_service_location" => "Fire Service Location",
+        "Thana_name" => "Thana Name",
+        "Thana_number" => "Thana Number",
+        "Thana_location" => "Thana Location",
+        "website_name" => "WebSite Name",
+        "website_link" => "WebSite Link",
+        "our_services" => "Our Services",
+        "our_service" =>  "Our Services",
+        "picture_of_national_pepole" => "Picture Of National Pepole",
+        "about" => "
+        From our website you can easily give and take blood, you will get contact numbers and ambulance numbers of all hospitals, you will get some common diseases and their medicine suggestions, you will get all police station numbers, you will get fire service numbers, you will get all government helpline codes, and You will get the names and links of all government websites. you will get vot't help line numbers, This web application has been created for the purpose of serving the people. Thank you for your support.
+        ",
+        "about_blood_donners_bd" => "About Blood Donners BD",
+        "navigation_links" => "Navigation Links",
+        "hospital_and_abmulance" => "Hospital & Ambulance",
+        "blood_donate" => "Blood Donate",
+        "disease_and_medicine" => "Disease & Medicine",
+        "thana_number" => "Thana Number",
+        "top5" => "Top5 Donners",
+        "facebook_blood_group" => "Facebook Blood Donate Group",
+        "update_prifile_information" => "Update Profile Information ",
+        "change_profile_password" => "Chane Profile Password",
+        "name" => "Name",
+        "profile_picture" => "Profile Picture",
+        "local_area" => "Local Area",
+        "last_blood_donate_time" => "Last Donate Time",
+        "last_blood_donate_null" => "Last Donate Time [NULL]",
+        "pending" => "Pending...",
+        "update" => "Update",
+        "refresh" => "Refresh",
+        "enter_your_password" => "Enter Your Password",
+        "current_password" =>  "Current Password ",
+        "enter_new_password" => " Enter New Password",
+        "donners" => "Donners",
+        "instafeed" => "Instafeed",
+        "blood" => " Donners ",
+        "null" => "I did not give blood (if you have not given blood then tick the checkbox and leave the date blank)",
+        "active_donate" => "Active",
+        "about_our_website" => "About Our Website",
+        "new_password" => "New Password",
+        "contact_us" => "Contact Us",
+        "abouts" => "About Us",
+        "about_uss" => "We have developed this web application (website) for the benefit of the general public. We want you to come to our website to collect or donate blood and collect a lot of help full information from our website. Thank you for being by our side !!!",
+        "about_website_video" => "About Website",
+        "how_to_use_blood_donate_website" => "How To Use Website ?",
+        "bus_counter" => "Bus Counters",
+        "bus_counter_mobile_and_location" => "Bus Counter Name and Mobile Number",
+        "add_bus_counter" => "Add Bus Counter",
+        "enter_counter_name" => "Enter Counter Name",
+        "counter_name" => "Counter Name",
+        "counter_mobile" => "Counter Mobile",
+        "enter_counter_mobile_number" => "Enter Counter Mobile Number",
+        "counter_location" => "Counter Location",
+        "enter_counter_location" => "Enter Counter Location",
+        "country" => "Country",
+        "select_country" => "Select Country",
+        "select_status" => "Select Status"
+
+
+
+
+
+
+
+	];
+
